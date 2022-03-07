@@ -1,3 +1,5 @@
 info.txt
 backup-of-config.yml
 Dawn/config.yml
+node_modules
+package*.json
